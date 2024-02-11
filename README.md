@@ -1,7 +1,5 @@
-### Hi there 👋
-
-<h2> Hi, I'm Julio Daniel Pérez Cabrera!
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<h2> Hi there 👋, I'm Julio Daniel Pérez Cabrera!
+<img align='right' src="https://github.com/JulioPerez-ML/JulioPerez-ML/assets/77515450/05e29f1e-fbe8-46eb-adc7-bca556c1cbd8" width="230">
 <p><em>Software Engineer at <a href="https://www.tecalliance.net/">TecAlliance</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>
 </em></p>
 
@@ -14,19 +12,15 @@
 ```javascript
 const julio = {
   pronouns: "he" | "his",
-  code: [C Sharp, Python, Javascript],
-  tools: [AWS, Anaconda Suite, Visual Studio suite, VS Code suite, Serverless],
+  code: ["C Sharp", "Python", "Javascript"],
+  tools: ["AWS", "Anaconda Suite", "Visual Studio Suite", "VS Code Suite", "Serverless framework"],
   architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "RailsGirls POA"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+  challenge: "(2024) I am currently doing a fullstack development bootcampt to get more skills in
+              technologies like JS and frameworks like ReacJS and more."
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<!--<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em> -->
 
 ---
 
