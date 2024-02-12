@@ -12,18 +12,22 @@
 ```javascript
 const julio = {
   pronouns: "he" | "his",
-  code: ["C Sharp",
-         "Python",
-         "Javascript"
+  code: [
+          "C Sharp",
+          "Python",
+          "Javascript"
         ],
-  tools: ["AWS", "Anaconda Suite",
+  tools: [
+          "AWS",
+          "Anaconda Suite",
           "Visual Studio Suite",
           "VS Code Suite",
           "Serverless framework"
         ],
-  architecture: ["microservices",
-                 "event-driven",
-                 "design system pattern"
+  architecture: [
+                  "microservices",
+                  "event-driven",
+                  "design system pattern"
                 ],
   challenge: "(2024) I am currently doing a fullstack development
               bootcampt to get more skills in
