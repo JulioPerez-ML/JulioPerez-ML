@@ -30,7 +30,7 @@ const julio = {
                   "design system pattern"
                 ],
   challenge: "(2024) I am currently doing a fullstack development
-              bootcampt to get more skills in
+              bootcamp to get more skills in
               technologies like JS and frameworks like
               ReacJS and more."
 }
